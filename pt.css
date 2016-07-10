@@ -1,0 +1,21 @@
+/* CSS Document */
+p	  {font-family: sans-serif;
+	   font-style: normal;
+           font-weight: normal;
+	   font-size: 10pt;
+	   /*color: #000000;*/
+	   color: #444444;
+	   margin: 50px 0px; padding: 0px;
+	   text-align; center;
+    }
+
+#Content {
+	   position:absolute;
+	   left:50%;
+	   width:334px;
+	   margin-top:50px;
+	   margin-left:-349px;
+	   padding:15px;
+	   /*border:1px dashed #333;*/
+	   /*background-color:#eee;*/
+	}
